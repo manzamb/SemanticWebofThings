@@ -13,3 +13,6 @@
 [submodule "MQTT-ARDUINO"]
 	path = MQTT-ARDUINO
 	url = git@github.com:manzamb/MQTT-ARDUINO.git
+[submodule "MQTT-ESP8266"]
+	path = MQTT-ESP8266
+	url = git@github.com:manzamb/MQTT-ESP8266.git
