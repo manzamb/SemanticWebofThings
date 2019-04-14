@@ -4,3 +4,6 @@
 [submodule "Python-IoT-Programs"]
 	path = Python-IoT-Programs
 	url = git@github.com:manzamb/Python-IoT-Programs.git
+[submodule "SimuladorSensoresCalidadAire"]
+	path = SimuladorSensoresCalidadAire
+	url = git@github.com:manzamb/SimuladorSensoresCalidadAire.git
