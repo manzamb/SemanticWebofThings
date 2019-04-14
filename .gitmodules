@@ -7,3 +7,6 @@
 [submodule "SimuladorSensoresCalidadAire"]
 	path = SimuladorSensoresCalidadAire
 	url = git@github.com:manzamb/SimuladorSensoresCalidadAire.git
+[submodule "curso-IoT-semantics"]
+	path = curso-IoT-semantics
+	url = git@github.com:manzamb/curso-IoT-semantics.git
