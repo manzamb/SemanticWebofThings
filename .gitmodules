@@ -10,3 +10,6 @@
 [submodule "curso-IoT-semantics"]
 	path = curso-IoT-semantics
 	url = git@github.com:manzamb/curso-IoT-semantics.git
+[submodule "MQTT-ARDUINO"]
+	path = MQTT-ARDUINO
+	url = git@github.com:manzamb/MQTT-ARDUINO.git
