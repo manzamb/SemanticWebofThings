@@ -1,3 +1,6 @@
 [submodule "XMLIoT"]
 	path = XMLIoT
 	url = git@github.com:manzamb/XMLIoT.git
+[submodule "Python-IoT-Programs"]
+	path = Python-IoT-Programs
+	url = git@github.com:manzamb/Python-IoT-Programs.git
